@@ -402,7 +402,7 @@ for_window [class="Chromium-browser"] focus
 #file manager
 #exec --no-startup-id thunar
 #exec thunar --daemon &
-exec --no-startup-id nemo
+#exec --no-startup-id nemo
 
 
 #Mail clients
