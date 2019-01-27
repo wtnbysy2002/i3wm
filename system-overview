@@ -73,7 +73,7 @@ TCP Inbounds: $color1${tcp_portmon 1 32767 count}$color3  Outbounds: $color1${tc
 $hr
 File systems:${template0 /}${template0 /home}${template0 /tmp}${template0 /mnt}
 $hr
-Networking:${template1 enp3s0}${template1 enp6s0}${template1 enp7s0}
+Networking:${template1 enp31s0}${template1 enp6s0}${template1 enp7s0}
 $hr
 Name              PID   CPU%   MEM%
  $color2${top name 1} ${top pid 1} ${top cpu 1} ${top mem 1}$color3

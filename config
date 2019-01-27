@@ -516,7 +516,7 @@ bindsym $mod+F1 exec --no-startup-id exo-open --launch webbrowser;workspace 1;fo
 #qwerty/azerty conflict with w
 #bindsym $mod+w exec --no-startup-id exo-open --launch webbrowser;workspace 1;focus
 bindsym control+mod1+f exec --no-startup-id firefox;workspace 1; focus
-bindsym control+mod1+v exec --no-startup-id vivaldi-snapshot;workspace 1; focus
+bindsym control+mod1+v exec --no-startup-id vivaldi;workspace 1; focus
 bindsym control+mod1+g exec --no-startup-id chromium-browser;workspace 1;focus
 
 #workspace 2 related
